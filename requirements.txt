@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+opencv-python-headless
+transformers
+tqdm
+pillow
+scipy
+numpy
+timm==0.6.7
+open3d
